@@ -45,16 +45,16 @@ Save this new file....
 ![](https://github.com/Bapuso-Sawant/Text_Editor/blob/master/Screenshot%20(749).png)
 
 
-save as....
-
-![](https://github.com/Bapuso-Sawant/Text_Editor/blob/master/Screenshot%20(753).png)
-
-
 Open this new file [new.c]....
 
 ![](https://github.com/Bapuso-Sawant/Text_Editor/blob/master/Screenshot%20(750).png)
 
 ![](https://github.com/Bapuso-Sawant/Text_Editor/blob/master/Screenshot%20(751).png)
+
+
+save as....
+
+![](https://github.com/Bapuso-Sawant/Text_Editor/blob/master/Screenshot%20(753).png)
 
 
 Append data in other file....
