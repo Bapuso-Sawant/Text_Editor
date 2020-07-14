@@ -45,7 +45,8 @@ Save this new file....
 ![](https://github.com/Bapuso-Sawant/Text_Editor/blob/master/Screenshot%20(749).png)
 
 
-save as ////
+save as....
+
 ![](https://github.com/Bapuso-Sawant/Text_Editor/blob/master/Screenshot%20(753).png)
 
 
